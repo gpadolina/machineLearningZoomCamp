@@ -1,1 +1,1 @@
-# machineLearningZoomCamp
+# Machine Learning Zoompcamp
